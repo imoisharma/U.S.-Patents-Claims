@@ -3,4 +3,4 @@ I am using USPTO ( United States Patent and Trademark Office) SOURCE LINK WHICH 
 
 Dataset can be downloaded from original site - https://developer.uspto.gov/product/patent-grant-full-text-dataxml
 
-Connect with me - [LinkedIn]https://www.linkedin.com/in/imoisharma
+Connect with me - [LinkedIn][https://www.linkedin.com/in/imoisharma]
